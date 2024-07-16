@@ -1,0 +1,6 @@
+Hello world
+This is an example file.
+This file contains words.
+Hello World
+This is an example file.
+
